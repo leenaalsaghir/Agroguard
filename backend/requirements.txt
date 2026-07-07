@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+nemoguardrails
+openai
+sentence-transformers
+scikit-learn
+nest_asyncio
+python-dotenv
