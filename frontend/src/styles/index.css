@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  color-scheme: light;
+}
+
+body {
+  font-family: Inter, Arial, sans-serif;
+  background: #eef3ef;
+}
+
+button,
+input {
+  font: inherit;
+}
